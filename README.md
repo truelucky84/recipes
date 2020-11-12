@@ -2,4 +2,4 @@
 
 ## List of Recipes
 
-* [Sweets](sweet.md)
+* [Sweets](sweets.md)
